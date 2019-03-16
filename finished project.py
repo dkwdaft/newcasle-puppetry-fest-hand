@@ -12,7 +12,7 @@ while True:
     #If the value of threshold is over 300
     if threshold < 100:
         #Say hello
-        speech.say("Hello!")
+        speech.say("Hello! And welcome to the Newcastle Puppetry festival ")
         '''I used this next bit to check if the happy face kept repeating
         itself'''
         #Show smiley face for 1 second
