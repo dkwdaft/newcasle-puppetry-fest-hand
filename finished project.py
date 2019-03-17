@@ -13,11 +13,3 @@ while True:
     if threshold < 100:
         #Say hello
         speech.say("Hello! And welcome to the Newcastle Puppetry festival ")
-        '''I used this next bit to check if the happy face kept repeating
-        itself'''
-        #Show smiley face for 1 second
-        display.show(Image.HAPPY)
-        sleep(1000)
-        #Clear the display
-        display.clear()
-
