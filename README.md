@@ -17,3 +17,18 @@ Following on from that proof of concept  at the next coderdojo Gateshead session
 Please see the image below to see the wiring diagram
 
 ![](src/read-me/imgs/s.jpg)
+
+# ** acknowledgements **
+
+Thank you to the following people for helping me with my project for the Newcastle puppetry festival.
+
+* 	Everybody at coderdojo Gateshead for their help mentoring and support.
+
+* Dani from coderdojo Gateshead and Matt from the Newcastle puppetry festival for giving me the opportunity to design 
+an automaton for the Newcastle puppetry festival.
+
+* Megan from Newcastle University for letting me Loan a BBC micro bit for the duration of the festival and beforehand to build my project. 
+
+* Jacqui from Gateshead library Digital team for looking after my project at the library once I had finished it and then passing it on to Matt to display at the festival.
+
+* My Family for helping me come up with the final housing unit for my project and painting it silver. 
