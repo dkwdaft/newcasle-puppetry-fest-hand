@@ -18,7 +18,7 @@ Please see the image below to see the wiring diagram
 
 ![](src/read-me/imgs/s.jpg)
 
-# **acknowledgementsS**
+# **acknowledgements**
 
 Thank you to the following people for helping me with my project for the Newcastle puppetry festival.
 
