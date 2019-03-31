@@ -5,3 +5,7 @@ I started out with a cardboard box with A slit in it with a hand made out of car
 
 ![](src/read-me/imgs/card_hand_Pic_1.jpg)
 ![](src/read-me/imgs/card_hand_pic_2.jpg)
+
+And then started out with code written in Microsoft make code to Record how much force is exerted on the hand to shake it for a proof of concept.
+
+![](src/read-me/imgs/mmc-c)
