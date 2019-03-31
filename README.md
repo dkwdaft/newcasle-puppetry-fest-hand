@@ -32,3 +32,5 @@ an automaton for the Newcastle puppetry festival.
 * Jacqui from Gateshead library Digital team for looking after my project at the library once I had finished it and then passing it on to Matt to display at the festival.
 
 * My Family for helping me come up with the final housing unit for my project and painting it silver. 
+
+
