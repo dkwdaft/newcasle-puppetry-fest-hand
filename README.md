@@ -8,4 +8,4 @@ I started out with a cardboard box with A slit in it with a hand made out of car
 
 And then started out with code written in Microsoft make code to Record how much force is exerted on the hand to shake it for a proof of concept.
 
-![](src/read-me/imgs/mmc-c)
+![](src/read-me/imgs/mmc-c.jpg)
