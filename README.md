@@ -17,7 +17,7 @@ Following on from that proof of concept  at the next coderdojo Gateshead session
 
 # **wiring diagram**
 
-Please see the image below to see the wiring diagram
+Please see the image below to see the wiring diagram.
 
 ![](src/read-me/imgs/s.jpg)
 
