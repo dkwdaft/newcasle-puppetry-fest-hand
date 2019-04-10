@@ -1,6 +1,6 @@
 # newcastle-puppetry-fest-hand
 A puppet for the newcastle puppetry festival which is going to be on display on Friday 12th April as part of the Newcastle puppetry festival at the Alphabetti Theatre, St James’ Boulevard, Newcastle NE1 4HP .
- # **How I made my puppet for the Newcastle puppetry festival**
+ # **How I made my puppet for the Newcastle Puppetry Festival**
 I started out with a cardboard box with A slit in it with a hand made out of cardboard like this. 
 
 ![](src/read-me/imgs/card_hand_Pic_1.jpg)
@@ -23,12 +23,12 @@ Please see the image below to see the wiring diagram.
 
 # **acknowledgements**
 
-Thank you to the following people for helping me with my project for the Newcastle puppetry festival.
+Thank you to the following people for helping me with my project for the Newcastle Puppetry Festival.
 
 * 	Everybody at coderdojo Gateshead for their help mentoring and support.
 
-* Dani from coderdojo Gateshead and Matt from the Newcastle puppetry festival for giving me the opportunity to design 
-an automaton for the Newcastle puppetry festival.
+* Dani from coderdojo Gateshead and Matt from the Newcastle Puppetry Festival for giving me the opportunity to design 
+an automaton for the Newcastle Puppetry festival.
 
 * Megan from Newcastle University for letting me Loan a BBC micro bit for the duration of the festival and beforehand to build my project. 
 
