@@ -27,8 +27,7 @@ Thank you to the following people for helping me with my project for the Newcast
 
 * 	Everybody at coderdojo Gateshead for their help mentoring and support.
 
-* Dani from coderdojo Gateshead and Matt from the Newcastle Puppetry Festival for giving me the opportunity to design 
-an automaton for the Newcastle Puppetry festival.
+* Dani from coderdojo Gateshead and Matt from the Newcastle Puppetry Festival for giving me the opportunity to design an automaton for the Newcastle Puppetry Festival.
 
 * Megan from Newcastle University for letting me Loan a BBC micro bit for the duration of the festival and beforehand to build my project. 
 
