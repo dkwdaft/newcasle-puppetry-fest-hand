@@ -1,9 +1,10 @@
+# Add your Python code here. E.g.
 from microbit import *
 import speech
 speech.say("ready")
 while True:
 
-    #Checks how much current travels from pin1 to ground
+    #Checks how much current tra vels from pin1 to ground
     #If nobody is holding on to pin1 and ground this number will be
     #lower. When somebody is holding this pin (and is conducting the
     #current) then this value will be higher)
@@ -12,4 +13,3 @@ while True:
     if threshold < 100:
         #Say hello
         speech.say("Hello! And welcome to the Newcastle Puppetry festival ")
-
