@@ -1,5 +1,4 @@
 # newcastle-puppetry-fest-hand
-A puppet for the newcastle puppetry festival which has been on display  as part of the Newcastle puppetry festival. For the duration of  the Newcastle puppetry festival,to welcome guest   . Below is a picture of the puppet on display
 
 
 
@@ -43,3 +42,4 @@ Thank you to the following people for helping me with my project for the Newcast
 * My Family for helping me come up with the final housing unit for my project and painting it silver. 
 
 
+                                                                                                                                                                                                                                    
