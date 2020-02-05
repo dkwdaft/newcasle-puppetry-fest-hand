@@ -3,7 +3,7 @@ A puppet for the newcastle puppetry festival which has been on display  as part 
 
 
 
-!f[](src/read-me/imgs/puppet-on-display.png)
+![](src/read-me/imgs/puppet-on-display.png)
 
 
 
