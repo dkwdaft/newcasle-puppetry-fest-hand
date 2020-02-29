@@ -2,6 +2,7 @@
 from microbit import *
 import speech
 speech.say("ready")
+display.scroll("readssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssswwwwwwwwwwwwwwwwwwwwwwwwww")
 while True:
 
     #Checks how much current tra vels from pin1 to ground
@@ -12,4 +13,4 @@ while True:
     #If the value of threshold is over 300
     if threshold < 100:
         #Say hello
-        speech.say("Hello! And welcome to the  ")
+        speech.say("welcome to the gateshead rasberry jam in the maker place")
