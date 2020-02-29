@@ -2,7 +2,7 @@
 from microbit import *
 import speech
 speech.say("ready")
-display.scroll("readssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssswwwwwwwwwwwwwwwwwwwwwwwwww")
+display.scroll("ready)
 while True:
 
     #Checks how much current tra vels from pin1 to ground
