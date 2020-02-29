@@ -12,4 +12,4 @@ while True:
     #If the value of threshold is over 300
     if threshold < 100:
         #Say hello
-        speech.say("Hello! And welcome to the Newcastle Puppetry festival ")
+        speech.say("Hello! And welcome to the  ")
